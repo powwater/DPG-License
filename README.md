@@ -1,1 +1,4 @@
 # DPG-License
+
+### The Powwater database is a free, open-source aggregated dataset of water demand and consumption data for cities across the globe. The data is aggregated for neighborhood, district, city, regional, and national analysis. The database will provide critical demand and consumption information to help improve accessibility of potable water for urban areas in low and middle income countries. The database is first compiled with information on water availability through a pilot in Mombasa Kenya. Water demand and consumption data in the database will be open sourced to provide global practitioners with a wealth of information on water use that has never been collected and compiled before for urban water supply systems.  
+##### *Update: 15 September 2021. The Powwater database is still in development, as there is insufficient data to aggregate at reasonable levels. We anticipate that this database will be available beginning early 2022.*
